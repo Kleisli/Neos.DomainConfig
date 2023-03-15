@@ -1,0 +1,7 @@
+Kleisli:
+  Neos:
+    DomainConfig:
+      sites:
+#        mysite:
+#          primary: 'https://mysite.ddev.site'
+#          aliases: []

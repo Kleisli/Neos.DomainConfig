@@ -1,0 +1,7 @@
+Kleisli:
+  Neos:
+    DomainConfig:
+      sites:
+#        mysite:
+#          primary: 'https://mysite.ch'
+#          aliases: ['https://mysite.li']
