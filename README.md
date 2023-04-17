@@ -1,5 +1,7 @@
 # Kleisli.Neos.DomainConfig
-Adjust active domains in Neos.Neos according to the environment
+***
+Adjust active domains in Neos CMS according to the Flow context
+***
 
 ## Configuration
 Settings.DomainConfig.yaml
@@ -18,7 +20,7 @@ Kleisli:
 
 ## Commands
 ### `flow domainconfig:list`
-List the domains that would be applied in the current flow context.
+List the domains that would be applied in the current Flow context.
 
 ### `flow domainconfig:apply`
 Apply the domains for the current flow context. If zhe domain doesn't exist, it will be added, otherwise it will just be activated.
