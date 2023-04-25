@@ -21,7 +21,7 @@ Kleisli:
 List the domains that would be applied in the current Flow context.
 
 ### `flow domainconfig:apply`
-Apply the domains for the current flow context. If zhe domain doesn't exist, it will be added, otherwise it will just be activated.
+Apply the domains for the current flow context. If the domain doesn't exist, it will be added, otherwise it will just be activated.
 
 ## Kudos
 The development of this package has significantly been funded by [Profolio](https://www.profolio.ch/) - a digital platform for career choice & career counseling
