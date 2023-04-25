@@ -1,7 +1,5 @@
 # Kleisli.Neos.DomainConfig
-***
 Adjust active domains in Neos CMS according to the Flow context
-***
 
 ## Configuration
 Settings.DomainConfig.yaml

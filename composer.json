@@ -1,9 +1,9 @@
 {
-    "description": "",
+    "description": "Adjust active domains in Neos CMS according to the Flow context",
     "type": "neos-package",
     "name": "kleisli/neos-domainconfig",
     "require": {
-        "neos/flow": "*"
+        "neos/neos": "^8.0"
     },
     "autoload": {
         "psr-4": {
